@@ -23,3 +23,9 @@
   ```
 
   * 그래서 reduce를 활용해서 각각 숫자에 1이 몇개 포함된는지 합산하는식으로 고침.. 😅
+
+
+
+### Thymeleaf를 사용하여 Spring에서 이메일 보내기.
+
+* [Sending email in Spring with Thymeleaf 의 번역 문서](Thymeleaf-SpringEmail.md)
